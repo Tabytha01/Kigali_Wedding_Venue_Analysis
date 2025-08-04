@@ -19,3 +19,5 @@ This project analyzes wedding venue bookings in Kigali using Python and Power BI
 - Mez Park, Arcadia Garden, and Heaven Garden are most booked
 - Kicukiro has the highest average prices
 - Peak wedding dates occur in late September
+  
+  
